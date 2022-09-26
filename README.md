@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu souu Felipe Geazi</h1>
+<h1 align="center">Olá 👋, Eu sou Felipe Geazi</h1>
 <h3 align="center">Aprendendo para empreender com a tecnologia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipegeazi&label=Profile%20views&color=0e75b6&style=flat" alt="felipegeazi" /> </p>
