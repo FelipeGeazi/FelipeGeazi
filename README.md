@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Felipe Geazi</h1>
 
-![Apresentação de Portfólio Tecnologia Moderno Azul Branco (1)](https://user-images.githubusercontent.com/30714019/194794653-8b43b067-ed82-4365-be5e-89fab8550098.png)
+![Banner para mercado shops ecommerce mês das crianças neon azul e branco](https://user-images.githubusercontent.com/30714019/195737210-cf84f0b2-dbdb-45f6-82e8-50084a164c6f.gif)
 
 <a href="https://twitter.com/felipegeazi1" target="blank"><img src="https://img.shields.io/twitter/follow/felipegeazi1?logo=twitter&style=for-the-badge" alt="felipegeazi1" /></a>
 
@@ -60,8 +60,8 @@
 
 <hr>
 
-<p><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipegeazi&show_icons=true&theme=onedark&title_color=ffffff&text_color=fcfcfc&bg_color=1a1a1a&hide_border=true&locale=en&layout=compact" alt="felipegeazi" />
-<img height="150em"src="https://github-readme-stats.vercel.app/api?username=felipegeazi&show_icons=true&theme=dark&title_color=7c7bdb&text_color=cb5757&bg_color=050505&hide_border=true&locale=en" alt="felipegeazi" />
+<p><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipegeazi&show_icons=true&theme=dark&title_color=ffffff&text_color=fcfcfc&bg_color=1a1a1a&hide_border=true&locale=en&layout=compact" alt="felipegeazi" />
+<img height="150em"src="https://github-readme-stats.vercel.app/api?username=felipegeazi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="felipegeazi" />
 
 <center>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipegeazi&theme=dark" alt="felipegeazi" /></p>
